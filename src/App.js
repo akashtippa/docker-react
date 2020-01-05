@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         This is My First React App Deployment
+         This is My First React App Deployment and my react app successfull deployed using docker and beanstalk
         </p>
         <a
           className="App-link"
